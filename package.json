@@ -1,0 +1,19 @@
+{
+  "name": "auth-drill",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushsi/auth-drill.git"
+  },
+  "author": "Piyush Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushsi/auth-drill/issues"
+  },
+  "homepage": "https://github.com/piyushsi/auth-drill#readme"
+}
